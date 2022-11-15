@@ -8,6 +8,7 @@
 * [积木Sketch Plugin：设计同学的贴心搭档](https://tech.meituan.com/2020/05/21/waimai-sketch-plugin.html)
 * [Sketch插件开发总结](https://zhuanlan.zhihu.com/p/28325423)
 
+
 ## UI2Code
 * [58的picasso](https://github.com/wuba/Picasso)
 * [kitchen](https://kitchen.alipay.com/)
@@ -21,4 +22,6 @@
 * [提效神奇DesignToken的探索与应用.pdf](/DesignSystem/pdf/提效神奇DesignToken的探索与应用.pdf)
 * [AntDesign资产工程化探索和实践](/DesignSystem/pdf/AntDesign资产工程化探索和实践.pdf)
 * [FusionDesign-解构设计，抽象工程](/lowcode/pdf/FusionDesign-解构设计，抽象工程.pdf)
+* [58同城UI自动生成终端代码实践](/lowcode/pdf/58同城UI自动生成终端代码实践.pdf)
+* [ArcoDesign：字节跳动企业设计系统实践与思考](/lowcode/pdf/ArcoDesign：字节跳动企业设计系统实践与思考.pdf)
 
