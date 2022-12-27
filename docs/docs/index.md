@@ -34,3 +34,4 @@
 * [FusionDesign-解构设计，抽象工程](/DesignSystem/pdf/FusionDesign-解构设计，抽象工程.pdf)
 * [58同城UI自动生成终端代码实践](/DesignSystem/pdf/58同城UI自动生成终端代码实践.pdf)
 * [ArcoDesign：字节跳动企业设计系统实践与思考](/DesignSystem/pdf/ArcoDesign：字节跳动企业设计系统实践与思考.pdf)
+* [开启设计即开发模式——Ux设计稿转代码的探索与实践](/DesignSystem/pdf/开启设计即开发模式——Ux设计稿转代码的探索与实践.pdf)
