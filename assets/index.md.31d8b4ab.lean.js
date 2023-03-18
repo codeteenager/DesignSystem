@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as r,N as t}from"./chunks/framework.dc2c2e79.js";const b=JSON.parse('{"title":"设计系统的相关资料","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","lastUpdated":1679149913000}'),E={name:"index.md"},i=t("",9),n=[i];function l(c,f,d,h,p,A){return r(),a("div",null,n)}const o=e(E,[["render",l]]);export{b as __pageData,o as default};
